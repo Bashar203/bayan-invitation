@@ -1,0 +1,1 @@
+Upload index.html and invitation-artwork.jpg to the root of your GitHub repository. Replace the existing index.html when prompted.
