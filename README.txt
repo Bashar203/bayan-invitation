@@ -1,0 +1,1 @@
+Upload index.html, invitation-artwork.jpg and README.txt directly to the ROOT of your existing GitHub repository. Keep the image beside index.html. GitHub Pages: main / (root). No music and no share button.
